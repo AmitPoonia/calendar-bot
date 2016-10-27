@@ -1,0 +1,17 @@
+{
+  "no": 0,
+  "profanity": 1,
+  "thanking": 2,
+  "root": 3,
+  "confusion": 4,
+  "outro": 5,
+  "yes": 6,
+  "restart": 7,
+  "intro": 8,
+  "out_of_scope": 9,
+  "help": 10,
+  "create_booking":11,
+  "edit_booking":12,
+  "remove_booking":13,
+  "show":14,
+}

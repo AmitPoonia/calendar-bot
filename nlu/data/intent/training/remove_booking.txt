@@ -1,0 +1,4 @@
+delete this appointment
+remove this appointment
+cancel this meeting
+cancel this scheduling
