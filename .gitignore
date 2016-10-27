@@ -2,3 +2,4 @@
 .DS_Store
 CBOT/
 *.pyc
+.idea
